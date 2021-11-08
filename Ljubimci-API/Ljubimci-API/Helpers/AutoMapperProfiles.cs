@@ -15,6 +15,7 @@ namespace Ljubimci_API.Helpers
         {
             //automatski ce da mapira polja iz appuser u appuserdto
             CreateMap<AppUser, AppUserDTO>();
+            CreateMap<AppUser, RegisterAppUserDTO>();
         }
     }
 }

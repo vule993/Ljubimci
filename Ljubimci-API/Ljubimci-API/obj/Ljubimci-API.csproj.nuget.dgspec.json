@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {}
+    "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {}
   },
   "projects": {
-    "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
+    "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
+        "projectUniqueName": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
         "projectName": "Ljubimci-API",
-        "projectPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
-        "packagesPath": "C:\\Users\\vukasin.radic\\.nuget\\packages\\",
-        "outputPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\obj\\",
+        "projectPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
+        "packagesPath": "C:\\Users\\Vukasin\\.nuget\\packages\\",
+        "outputPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vukasin.radic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vukasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,6 +49,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -89,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -28,6 +28,7 @@ namespace Ljubimci_API.Controllers
             _mapper = mapper;
         }
 
+        [Route("Register")]
         public async Task<ActionResult<AppUserDTO>> Register(RegisterAppUserDTO registerAppUserDTO)
         {
             if (await UserExists(registerAppUserDTO.UserName)) return BadRequest("Username is taken.");
