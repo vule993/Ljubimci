@@ -39,7 +39,6 @@ D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.Id
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -122,3 +121,5 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.genruntimeconfig.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
