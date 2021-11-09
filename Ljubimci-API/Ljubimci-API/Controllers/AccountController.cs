@@ -43,5 +43,18 @@ namespace Ljubimci_API.Controllers
         }
 
         private async Task<bool> UserExists(string userName) => await _userManager.Users.AnyAsync(user => user.UserName == userName.ToLower());
+
+        [Route("Login")]
+        public async Task<ActionResult<AppUserDTO>> Login(LoginAppUserDTO loginAppUserDTO)
+        {
+            var user = await _userManager.Users.SingleOrDefaultAsync(u => u.UserName == loginAppUserDTO.UserName.ToLower());
+            if(user == null) return Unauthorized("Invalid username.");
+
+            var result = await _signInManager.CheckPasswordSignInAsync(user, loginAppUserDTO.Password, false);
+            if (!result.Succeeded) return Unauthorized("Unauthorized.");
+            
+
+            return _mapper.Map<AppUserDTO>(user);
+        }
     }
 }
