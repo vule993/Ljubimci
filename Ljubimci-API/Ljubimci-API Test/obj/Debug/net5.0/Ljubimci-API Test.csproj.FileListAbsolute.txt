@@ -101,23 +101,98 @@ D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\ref\Lju
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.pdb
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.genruntimeconfig.cache
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.csproj.AssemblyReference.cache
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\testhost.exe
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\ref\Ljubimci-API Test.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.deps.json
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.json
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.dev.json
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.Development.json
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.json
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.exe
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\CoverletSourceRootsMapping
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\testhost.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.deps.json
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.json
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.dev.json
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.Development.json
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.json
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.exe
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\testhost.exe
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\nunit.engine.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\nunit.engine.api.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\nunit.engine.core.dll
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API Test.deps.json
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API Test.runtimeconfig.json
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API Test.runtimeconfig.dev.json
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API Test.dll
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\ref\Ljubimci-API Test.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API Test.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Castle.Core.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -128,6 +203,11 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Moq.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\NuGet.Frameworks.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\nunit.framework.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -194,6 +274,18 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\zh-Hans\Micros
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.csproj.AssemblyReference.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.GeneratedMSBuildEditorConfig.editorconfig
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.AssemblyInfoInputs.cache
@@ -204,49 +296,3 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API T
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\ref\Ljubimci-API Test.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API Test\obj\Debug\net5.0\Ljubimci-API Test.genruntimeconfig.cache
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\CoverletSourceRootsMapping
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.deps.json
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.json
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.runtimeconfig.dev.json
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.Development.json
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\appsettings.json
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.exe
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Runtime.Caching.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API Test\bin\Debug\net5.0\Ljubimci-API.pdb

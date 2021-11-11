@@ -317,7 +317,8 @@
           "System.Xml.XmlSerializer.Reference": "5.0.0.0",
           "System.Xml.XPath": "5.0.0.0",
           "System.Xml.XPath.XDocument": "5.0.0.0",
-          "WindowsBase": "4.0.0.0"
+          "WindowsBase": "4.0.0.0",
+          "Interop.mscoree": "2.0.0.0"
         },
         "runtime": {
           "Ljubimci-API.dll": {}
@@ -823,11 +824,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "System.Collections.Immutable/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
-        }
-      },
+      "System.Collections.Immutable/5.0.0": {},
       "System.Collections.NonGeneric/4.3.0": {
         "dependencies": {
           "System.Diagnostics.Debug": "4.3.0",
@@ -854,11 +851,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.ComponentModel.Annotations/5.0.0": {
-        "compile": {
-          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {}
-        }
-      },
+      "System.ComponentModel.Annotations/5.0.0": {},
       "System.ComponentModel.Primitives/4.3.0": {
         "dependencies": {
           "System.ComponentModel": "4.3.0",
@@ -3024,6 +3017,12 @@
           "WindowsBase.dll": {}
         },
         "compileOnly": true
+      },
+      "Interop.mscoree/2.0.0.0": {
+        "compile": {
+          "Interop.mscoree.dll": {}
+        },
+        "compileOnly": true
       }
     }
   },
@@ -5163,6 +5162,11 @@
       "sha512": ""
     },
     "WindowsBase/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.mscoree/2.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

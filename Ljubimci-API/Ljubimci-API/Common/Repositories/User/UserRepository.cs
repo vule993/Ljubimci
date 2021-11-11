@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ljubimci_API.Data
+namespace Ljubimci_API.Repositories
 {
     public class UserRepository : IUserRepository
     {
@@ -21,7 +21,7 @@ namespace Ljubimci_API.Data
             _mapper = mapper;
         }
 
-        public Task<AppUserDTO> CreateUser(RegisterAppUserDTO registerAppUserDTO)
+        public Task<OutputUserDTO> CreateUser(InputRegisterDTO registerAppUserDTO)
         {
             var user = new AppUser()
             {
@@ -35,22 +35,22 @@ namespace Ljubimci_API.Data
             return null;
         }
 
-        public Task<AppUserDTO> DeleteUser(int userId)
+        public Task<OutputUserDTO> DeleteUser(int userId)
         {
             throw new NotImplementedException();
         }
 
-        public Task<AppUserDTO> GetUser(int userId)
+        public Task<OutputUserDTO> GetUser(int userId)
         {
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<AppUserDTO>> GetUsers()
+        public Task<IEnumerable<OutputUserDTO>> GetUsers()
         {
             throw new NotImplementedException();
         }
 
-        public Task<AppUserDTO> UpdateUser(AppUserDTO userDTO)
+        public Task<OutputUserDTO> UpdateUser(OutputUserDTO userDTO)
         {
             throw new NotImplementedException();
         }

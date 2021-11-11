@@ -4,10 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ljubimci_API.Interfaces
+namespace Ljubimci_API.DTOs
 {
-    public interface ITokenService
+    public class OutputUserDTO
     {
-        Task<string> CreateToken(AppUser user);
+        public AppUser User { get; set; }
+        public string Token { get; set; }
     }
 }

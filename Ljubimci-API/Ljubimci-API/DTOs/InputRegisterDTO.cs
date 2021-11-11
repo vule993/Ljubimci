@@ -1,6 +1,6 @@
-﻿namespace Ljubimci_API.Data
+﻿namespace Ljubimci_API.DTOs
 {
-    public class RegisterAppUserDTO
+    public class InputRegisterDTO
     {
         public string UserName { get; set; }
         public string Email { get; set; }

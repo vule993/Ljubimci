@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
-namespace Ljubimci_API.Data
+namespace Ljubimci_API.Repositories
 {
     public class DataContext : IdentityDbContext<
         AppUser, 

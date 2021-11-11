@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Ljubimci_API.Data;
 using Ljubimci_API.DTOs;
 using Ljubimci_API.Entities;
 using System;
@@ -14,9 +13,9 @@ namespace Ljubimci_API.Helpers
         public AutoMapperProfiles()
         {
             //automatski ce da mapira polja iz appuser u appuserdto
-            CreateMap<AppUser, AppUserDTO>();
-            CreateMap<AppUser, RegisterAppUserDTO>();
-            CreateMap<RegisterAppUserDTO, AppUser>();
+            CreateMap<AppUser, OutputUserDTO>();
+            CreateMap<AppUser, InputRegisterDTO>();
+            CreateMap<InputRegisterDTO, AppUser>();
         }
     }
 }

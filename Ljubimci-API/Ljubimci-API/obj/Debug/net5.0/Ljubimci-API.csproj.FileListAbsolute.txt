@@ -58,6 +58,9 @@ D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.CopyComplete
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.AssemblyReference.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\appsettings.Development.json
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\appsettings.json
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Ljubimci-API.exe
@@ -68,7 +71,9 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Ljubimci-API.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\ref\Ljubimci-API.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Ljubimci-API.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Humanizer.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -104,7 +109,7 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win-x86\na
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.AssemblyReference.cache
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.ResolveComReference.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.GeneratedMSBuildEditorConfig.editorconfig
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.AssemblyInfoInputs.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.AssemblyInfo.cs
@@ -114,12 +119,10 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\staticwebassets\Lju
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\staticwebassets\Ljubimci-API.StaticWebAssets.xml
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\scopedcss\bundle\Ljubimci-API.styles.css
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.RazorTargetAssemblyInfo.cache
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.CopyComplete
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\ref\Ljubimci-API.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.genruntimeconfig.cache
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.AssemblyReference.cache
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Interop.mscoree.dll
+D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.AssemblyReference.cache

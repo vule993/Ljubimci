@@ -1,5 +1,4 @@
 ﻿using Ljubimci_API.Entities;
-using Ljubimci_API.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -11,7 +10,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ljubimci_API.Services
+namespace Ljubimci_API.Services.Auth
 {
     public class TokenService : ITokenService
     {
