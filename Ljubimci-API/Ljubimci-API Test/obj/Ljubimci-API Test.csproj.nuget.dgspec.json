@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj": {}
+    "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj": {}
   },
   "projects": {
-    "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj": {
+    "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj",
+        "projectUniqueName": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj",
         "projectName": "Ljubimci-API Test",
-        "projectPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj",
-        "packagesPath": "C:\\Users\\Vukasin\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\obj\\",
+        "projectPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\Ljubimci-API Test.csproj",
+        "packagesPath": "C:\\Users\\vukasin.radic\\.nuget\\packages\\",
+        "outputPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vukasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vukasin.radic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
-                "projectPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj"
+              "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
+                "projectPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj"
               }
             }
           }
@@ -86,25 +86,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
+    "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
+        "projectUniqueName": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
         "projectName": "Ljubimci-API",
-        "projectPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
-        "packagesPath": "C:\\Users\\Vukasin\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\C#\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\obj\\",
+        "projectPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\Ljubimci-API.csproj",
+        "packagesPath": "C:\\Users\\vukasin.radic\\.nuget\\packages\\",
+        "outputPath": "D:\\Usavrsavanje\\Ljubimci\\Ljubimci-API\\Ljubimci-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vukasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vukasin.radic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -185,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,6 @@ D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.CoreCompileInputs.cache
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.MvcApplicationPartsAssemblyInfo.cache
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\staticwebassets\Ljubimci-API.StaticWebAssets.Manifest.cache
-D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\staticwebassets\Ljubimci-API.StaticWebAssets.xml
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\scopedcss\bundle\Ljubimci-API.styles.css
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.RazorTargetAssemblyInfo.cache
 D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.dll
@@ -126,3 +125,5 @@ D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.pdb
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.genruntimeconfig.cache
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Interop.mscoree.dll
 D:\IT\C#\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.AssemblyReference.cache
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Interop.mscoree.dll
+D:\Usavrsavanje\Ljubimci\Ljubimci-API\Ljubimci-API\obj\Debug\net5.0\Ljubimci-API.csproj.ResolveComReference.cache
