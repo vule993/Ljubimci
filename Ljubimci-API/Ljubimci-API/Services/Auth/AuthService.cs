@@ -34,7 +34,10 @@ namespace Ljubimci_API.Services.Auth
             if (!result.Succeeded) throw new AuthenticationException("Unauthorized.");
 
 
-            return _mapper.Map<OutputUserDTO>(user);
+            var dtoToReturn = _mapper.Map<OutputUserDTO>(user);
+            dtoToReturn.Token = await _tokenService.CreateToken(user);
+
+            return dtoToReturn;
         }
 
         public async Task<OutputUserDTO> Register(InputRegisterDTO registerDTO)
@@ -47,7 +50,9 @@ namespace Ljubimci_API.Services.Auth
             var result = await _userManager.CreateAsync(user, registerDTO.Password);
             if (!result.Succeeded) throw new AuthenticationException(result.Errors.ToString());
 
-            return _mapper.Map<OutputUserDTO>(user);
+            var dtoToReturn = _mapper.Map<OutputUserDTO>(user);
+            dtoToReturn.Token = await _tokenService.CreateToken(user);
+            return dtoToReturn;
         }
 
         private async Task<bool> UserExists(string userName) => await _userManager.Users.AnyAsync(user => user.UserName == userName.ToLower());

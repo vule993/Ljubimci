@@ -13,11 +13,7 @@ namespace Ljubimci_API.Helpers
         public AutoMapperProfiles()
         {
             //automatski ce da mapira polja iz appuser u appuserdto
-            CreateMap<AppUser, OutputUserDTO>()
-                .ForMember(
-                    destination => destination.Token,
-                    options => options.MapFrom(source => source)
-                );
+            CreateMap<AppUser, OutputUserDTO>();
             CreateMap<AppUser, InputRegisterDTO>();
             CreateMap<InputRegisterDTO, AppUser>();
         }
